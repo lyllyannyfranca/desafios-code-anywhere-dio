@@ -3,8 +3,10 @@
 
 
 ### Proposta do problema
-Elabore um programa que possua as características abaixo: 
+Elabore um programa que possua as características abaixo:
+
 &nbsp; &nbsp; &nbsp; 1. Leia os dados de um CPF no formato *XXX.YYY.ZZZ-DD*;
+
 &nbsp; &nbsp; &nbsp; 2. Imprima os quatro grupos numéricos, sendo um valor por linha.
 
 ---
